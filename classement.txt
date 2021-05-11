@@ -1,0 +1,10 @@
+LouisMarie;1001
+XavierTrouillot;1000
+Louis;250
+Etienne;200
+Gabriel;100
+PierreAlain;80
+Gabriel;280
+clem;280
+gabriel;430
+bvc;100
